@@ -1,0 +1,7 @@
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp37\obj\Debug\ConsoleApp37.pdb

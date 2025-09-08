@@ -1,0 +1,14 @@
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\bin\Debug\net9.0\async.exe
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\bin\Debug\net9.0\async.deps.json
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\bin\Debug\net9.0\async.runtimeconfig.json
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\bin\Debug\net9.0\async.dll
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\bin\Debug\net9.0\async.pdb
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.AssemblyInfoInputs.cache
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.AssemblyInfo.cs
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.csproj.CoreCompileInputs.cache
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.dll
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\refint\async.dll
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.pdb
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\async.genruntimeconfig.cache
+C:\Users\mmirz\OneDrive\Desktop\kos sher vs\async\obj\Debug\net9.0\ref\async.dll

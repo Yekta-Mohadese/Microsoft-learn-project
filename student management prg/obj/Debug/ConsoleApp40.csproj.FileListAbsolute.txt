@@ -1,0 +1,8 @@
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\bin\Debug\ConsoleApp40.exe.config
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\bin\Debug\ConsoleApp40.exe
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\bin\Debug\ConsoleApp40.pdb
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.AssemblyReference.cache
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\obj\Debug\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\obj\Debug\ConsoleApp40.exe
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\obj\Debug\ConsoleApp40.pdb
+C:\Users\mmirz\OneDrive\Desktop\c#\ConsoleApp40\obj\Debug\ConsoleApp40.exe.config
